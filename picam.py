@@ -71,4 +71,4 @@ while 1:
         
     else:
         gpio.output(led, LOW)
-        time.sleep(0.01)
+        time.sleep(1)
